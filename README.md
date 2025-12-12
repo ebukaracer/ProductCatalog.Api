@@ -28,7 +28,7 @@ API Testing with `Scalar`
 | Validation   | Data annotations + manual checks | Clear, explicit validations           |
 
 ### Setup Instructions
-TL;DR: If you prefer not to clone this repository and set it up manually, visit this [URL](https://productcatalogapi.tryasp.net) to directly test the API.
+TL;DR: If you prefer not to clone this repository and set it up manually, visit this [URL](http://productcatalogapi.tryasp.net) to directly test the API.
 
 - Clone this repo to your desired directory
 - Open the `.sln` file using your desired C#  code editor(rider, vscode, visual studio, etc)
